@@ -1,0 +1,227 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief testimony against tale-bearers, whisperers, and back- biters shewing that where they are given ear unto amongst friends, neighbors, and relations, or in any Christian society, such can never live in peace, concord and unity / by William Shewen.</title>
+            <author>Shewen, William, 1631?-1695.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93152</idno>
+            <idno type="STC">Wing S3418</idno>
+            <idno type="STC">ESTC R42470</idno>
+            <idno type="EEBO-CITATION">36282026</idno>
+            <idno type="OCLC">ocm 36282026</idno>
+            <idno type="VID">150288</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93152)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150288)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2240:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief testimony against tale-bearers, whisperers, and back- biters shewing that where they are given ear unto amongst friends, neighbors, and relations, or in any Christian society, such can never live in peace, concord and unity / by William Shewen.</title>
+                  <author>Shewen, William, 1631?-1695.</author>
+               </titleStmt>
+               <extent>[2], 27 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the Year, 1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing (2nd ed.).</note>
+                  <note>Reproduction of original in the Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Talebearing --  Quaker authors.</term>
+               <term>Gossip --  Quaker authors.</term>
+               <term>Community life --  England --  Quaker authors.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:150288:1" rendition="simple:additions"/>
+            <p>A BRIEF TESTIMONY AGAINST TALE-BEARERS, WHISPERERS, AND <hi>Back-biters,</hi> SHEWING That where they are given ear unto amongſt Friends, Neighbours, and Relations, or in any Chriſtian So<g ref="char:EOLhyphen"/>ciety, ſuch can never live in Peace, Concord and Unity.</p>
+            <q>
+               <p>For their Words are as Wounds, they Reveal Secrets, they Separate near Friends: Therefore they are to be driven away with an Angry Countenance,</p>
+               <bibl>
+                  <hi>Prov. 25.23.</hi>
+               </bibl>
+            </q>
+            <p>By <hi>William Shewen.</hi>
+            </p>
+            <p>Printed in the Year, 1686.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:150288:2"/>
+            <pb n="1" facs="tcp:150288:2"/>
+            <head>A BRIEF TESTIMONY AGAINST Tale-bearers, Whiſperers, AND <hi>Back-biters.</hi>
+            </head>
+            <p>I Have often conſidered the end and tendancy of Tale-bearing, Whiſpering, and Back-biting, and have obſerved the Evil Fruits and Effects thereof among Friends, Neighbours, and Relations. And have found and concluded, that it is impoſſible for any Society of
+<pb n="2" facs="tcp:150288:3" rendition="simple:additions"/>People upon the face of the Earth, that give countenance to any that are found in the practice thereof, to live or dwell together in Love, Unity, Peace, and heavenly Concord or Agree<g ref="char:EOLhyphen"/>ment, which indeed is the Glory, Strength and Crown of a People; and the contrary their Weakneſs, Shame and Reproach, Confuſion and Deſtru<g ref="char:EOLhyphen"/>ction alſo.</p>
+            <p>Therefore that they may be ſtopped, and their evil fruits and effects pre<g ref="char:EOLhyphen"/>vented, I have a concern upon my mind, as a Teſtimony and Caution not only againſt, them, but alſo againſt ſuch as gives Tales, Whiſperings, and Back<g ref="char:EOLhyphen"/>bitings, entertainment; that lends their ears unto them, that receives and be<g ref="char:EOLhyphen"/>lieves them, and laies them up in their minds, where they increaſe and multi<g ref="char:EOLhyphen"/>ply againſt an evil Day.</p>
+            <p>For I ſay unto thee, whoſoever thou art, that deſireſt to keep clear of the evil effects that attends Tale-bearing; thou muſt not only forbear to tell Tales, but thou muſt alſo take heed
+<pb n="3" facs="tcp:150288:3"/>how thou heareſt, whom thou heareſt, and what thou heareſt. And if any come unto thee with a Story, Tale, or Relation, conſider the end and Ten<g ref="char:EOLhyphen"/>dency of what he ſaith unto thee; and if it be concerning a Perſon known unto thee, and what he ſaith tends to the Defamation or Diſrepute of the ſaid Perſon, and thou doſt not know of thy own Knowledge that the things he ſaith are true, thy Duty is to take great heed how thou heareſt him, or entertaineſt what he ſaith: But thou muſt ſay unto him, Friend, I know the Perſon of whom thou ſpeakeſt, and I do not know that thoſe things thou ſpeakeſt of him are true. Therefore as I would be done by in the like Caſe, let me know thy Name, Place of A<g ref="char:EOLhyphen"/>bode, and Reputation; and I will at my firſt Opportunity acquaint the Per<g ref="char:EOLhyphen"/>ſon thou ſpeakeſt off, what thou ſay'ſt of him; and time and place ſhall be appointed, wherein I will hear you both together. And if thou art not willing it ſhould be ſo, what thou haſt
+<pb n="4" facs="tcp:150288:4"/>told me, I take no other notice of it but as a Tale of Evil Tendency, even to Wound, Eſtrange, and ſeparate Friends; therefore I will drive thee away with an Angry Countenance, as a Back-biter, and Whiſperer, whoſe words are as wounds, and whoſe arrows fly in Se<g ref="char:EOLhyphen"/>cret, to hurt the Innocent; ſo doing, this Tale-bearer will come no more at thee. If Thieves had no receivers they would not continue Stealing; ſo if Tale-tellers had no Tale-hearers and Receivers, they would and muſt leave off Tale-bearing: And according to an <hi>Engliſh</hi> Proverb, the Receiver is as bad as the Thief.</p>
+            <p>It is the Duty of every Friend. Bro<g ref="char:EOLhyphen"/>ther. Neighbour, and Relation, and of every Member of a Religious Society, to be Tender and Careful of each o<g ref="char:EOLhyphen"/>thers good Name, and Reputation; and Diligently to watch againſt that Creeping, Whiſpering, Back-biting Spi<g ref="char:EOLhyphen"/>rit, that ſowes diſcord among Bre<g ref="char:EOLhyphen"/>thren, let it be judged in every appear<g ref="char:EOLhyphen"/>ance of it, ſo ſhall Love, Unity, and
+<pb n="5" facs="tcp:150288:4"/>good Neighbourhood be preſerved and encreaſed.</p>
+            <p>The Law of God by <hi>Moſes</hi> provid<g ref="char:EOLhyphen"/>ed expreſly againſt Tale-bearing, <hi>Thou ſhalt not go up and down as a Tale-bearer among thy People; neither ſhalt thou ſtand againſt the Blood of thy Neigh<g ref="char:EOLhyphen"/>bour,</hi> Lev. 19.16. Theſe two Evils are of a like Nature and Tendency. Again, <hi>Thou ſhalt not raiſe a falſe Report, put not thy hand to the wicked to be an unrighteous Witneſs,</hi> Exo. 23.1. theſe two Evils are alſo akin to each other.</p>
+            <p>Tale-bearing and falſe reporting who ever is Guilty thereof with a deſign to Marr the Credit, good Name and Re<g ref="char:EOLhyphen"/>putation of his Brother or Neighbour, is as he that puts his hand to the wick<g ref="char:EOLhyphen"/>ed, to be an unrighteous Witneſs; and as he that ſtands againſt the Blood of his Neighbour, <hi>For his words are as Wounds, and they go down to the inner<g ref="char:EOLhyphen"/>moſt part of the Belly. Prov.</hi> 18.8.</p>
+            <p>It is written in the Holy Scriptures, <hi>Pſalm</hi> 133.1. <hi>That it is a
+<pb n="6" facs="tcp:150288:5"/>Comely aad Pleaſant thing, for Brethren to live</hi> (or dwell) <hi>together in <g ref="char:V">Ʋ</g>ni<g ref="char:EOLhyphen"/>ty;</hi> it is like pretious Oyntment, as the Dew of <hi>Hermon,</hi> and as the Dew that Deſcended upon the Mountains of Sion.</p>
+            <p>What is to Compare more Excel<g ref="char:EOLhyphen"/>lent? What more Pleaſant, Lovely, and Amiable, then to behold a Peo<g ref="char:EOLhyphen"/>ple dwell together in Unity, in Love, and Brotherly kindneſs. In this Heaven<g ref="char:EOLhyphen"/>ly Society, no Tale-bearer hath any place, they are Witneſſes of the Truth of that ſaying, <hi>Prov.</hi> 26.20. <hi>Where there is no Tale-bearer, ſtrife ceaſeth.</hi>
+            </p>
+            <p>It is not poſſible for Neighbours, Friends, and Relations, nor for any Society of People to live together in Unity, Friendſhip and good Neigh<g ref="char:EOLhyphen"/>bourhood, while there goeth up and down a Tale-bearer among them; a Whiſperer and Back-biter among them, they are numbred by St. <hi>Paul</hi> in his Epiſtle to the <hi>Roman's, Rom.</hi> 1.29, 30. with the worſt of Sinners; and the Teſtimony of <hi>Solomon</hi> is, That the
+<pb n="7" facs="tcp:150288:5"/>falſe Witneſs that ſpeaketh Lies, and him that ſoweth diſcord among Bre<g ref="char:EOLhyphen"/>thren is one of the Six things which God hates, and is an Abomination to him, <hi>Prov.</hi> 6.19. for indeed they are Authors of much Miſchief, and are Inconſiſtant with Peace, Concord, and Society.</p>
+            <p>And where theſe ſort of Evil doers are entertained their words makes wounds not eaſily cur'd; makes Breaches not ſoon made up and re<g ref="char:EOLhyphen"/>paired, Seperate's and Divides near Friends, ſo that they are not eaſily Reconciled again.</p>
+            <p>But where the Tale-bearer, Whiſ<g ref="char:EOLhyphen"/>perer, and Backbiter, is ſhut out, brought to Trial, Judged, or driven a<g ref="char:EOLhyphen"/>way with an Angry Countenance, all his deſigns are defeated, Love, Peace, and Concord is maintained a Living to<g ref="char:EOLhyphen"/>gether in Love and Unity preſerved; which indeed is a great Happineſs, a great Comfort, a great Bleſſing for Friends, Neighbours, and Relations to Enjoy.</p>
+            <pb n="8" facs="tcp:150288:6"/>
+            <p>Where envy and ſtrife is, there is Confuſion and every evil Work; a fro<g ref="char:EOLhyphen"/>ward Man ſoweth Strife, and a Whiſ<g ref="char:EOLhyphen"/>perer ſeparateth chief Friends; but where Love and Unity is, there is good order and every good work. And the ſeed of the froward Man cannot take root in ſuch, nor the work of the Whiſperer take effect, eſpecially among ſuch who keep in that love and unity by which they are known to be Diſciples of Jeſus.</p>
+            <p>And thoſe two Excellent precepts of Chriſt are by thoſe who are his Diſci<g ref="char:EOLhyphen"/>ples indeed truly obſerved, in order to keep Love and Unity, and prevent the Contrary, and the occaſion there<g ref="char:EOLhyphen"/>of.</p>
+            <p>
+               <hi>Firſt,</hi> If thy Brother offend or treſ<g ref="char:EOLhyphen"/>paſs againſt thee, go to him and tell him of his fault, between him and thee; if he will hear thee, thou haſt gain<g ref="char:EOLhyphen"/>ed thy Brother, if he will not, take one or two more with thee, if he will not hear them, then tell the Church or Congregation; if he will not
+<pb n="9" facs="tcp:150288:6"/>hear the Congregation, let him be as an Heathen or Publican.</p>
+            <p>
+               <hi>Secondly,</hi> VVhatſoever ye would that Men ſhould do unto you, do ſo unto them likewiſe.</p>
+            <p>The true Obſervation of theſe two Precepts cuts off all VVhiſperings, evil Speakings, Back-bitings, Tale-bearings, and the uncovering the nakedneſs and weakneſs of any Friend, Brother, and Neighbour, before he hath performed his Duty, as is ſet forth in the firſt Precept, which indeed tends to the preſervation of Love and Unity among Brethren, and the contrary tends to Strife, Diviſion, and Deſtruction.</p>
+            <p>No better Method can be laid down in a Chriſtian Society to prevent a Breach, and to maintain Love and Bro<g ref="char:EOLhyphen"/>therly kindneſs, than what is contained in this Precept, the neglect and Non-obſervance of this by many Perſons and Societies profeſſing Chriſti<g ref="char:EOLhyphen"/>anity, hath let in Animoſities, Strifes, Debates, Diviſion, Diſorders, and Confuſion among them, ſo that they
+<pb n="10" facs="tcp:150288:7"/>have been ſcattered as with a VVhirl<g ref="char:EOLhyphen"/>wind, and have received the fruit of their own doings in their own boſoms, as might be demonſtrated at large, throughout moſt of the Sects and ga<g ref="char:EOLhyphen"/>therings of People in Chriſtendom, who only talk of and profeſs good words, and good things; but the <hi>Jews, Turks,</hi> and <hi>Indians</hi> may com<g ref="char:EOLhyphen"/>pare with them for good VVorks, yea, they have cauſed the name of God and the Chriſtian Religion to be blaſ<g ref="char:EOLhyphen"/>phemed, ſcorned and ſlighted amongſt them; even becauſe while they are talking of God, Chriſt, Love, Light, Holineſs, Righteouſneſs, and Religi<g ref="char:EOLhyphen"/>on, they are envying, hating, biting and devouring one another, and ſheath<g ref="char:EOLhyphen"/>ing their Swords in one anothers Bowels, having turned that Royal Law, <hi>Do as you would be done by,</hi> behind their backs, whereas indeed the obeying theſe ſeven words is more than the Reading, Hearing and Profeſſing ſeven times ſeven thouſand words.</p>
+            <pb n="11" facs="tcp:150288:7"/>
+            <p>There is no Society of People upon the face of the Earth, though under the Profeſſion of Chriſtianity it ſelf, that have, can, do, or ever ſhall live together in Love and Unity as true Friends and Brethren, further then they Obey and Obſerve theſe two di<g ref="char:EOLhyphen"/>vine and Heavenly Precepts. And as they <hi>do, have,</hi> or <hi>ſhall</hi> degenerate from the true Obſervance thereof, they <hi>do, have,</hi> and <hi>ſhall</hi> fall into Strife, Enmity, and Diviſion the High-way to Deſtru<g ref="char:EOLhyphen"/>ction. And many have been Deſtroy<g ref="char:EOLhyphen"/>ed thereby, even after they have at<g ref="char:EOLhyphen"/>tained to a good Degree in the Spirit of Love, Simplicity and Heavenly Unity, and all through Diſobedience, or neglect of thoſe Precepts of Chriſt, which he once taught, and now Teach<g ref="char:EOLhyphen"/>eth thoſe who are his Diſciples indeed to Obſerve and keep by the Aſiſtance of his holy Spirit of Love which is the Bond of Peace, and true Foundation of all Heavenly Concord and Agree<g ref="char:EOLhyphen"/>ment.</p>
+            <pb n="12" facs="tcp:150288:8"/>
+            <p>And this Spirit teacheth all that have it, and obey it, to be Circumſpect and take heed of Letting in evil Thoughts, evil Reports, Whiſperings, and evil Surmiſes againſt any Friend, Brother, or Neighbour, for it will eat like a Canker; and if thy Brother, Friend, or Neighbour, hath Treſpaſſed againſt thee, thou muſt not tell it firſt to others, if thou doeſt, thou art in ſome degree a Tale-bearer, and a Back-biter, and Tranſgreſſer of this Command of Chriſt, which reacheth all manner of Treſ<g ref="char:EOLhyphen"/>paſſes and Offences that are private, and relating to a particular Perſon, of<g ref="char:EOLhyphen"/>fended or treſpaſſed againſt; which the Church or Congregation knows not of, nor ought not, except thy Bro<g ref="char:EOLhyphen"/>ther refuſe to hear thee.</p>
+            <p>But if any that is called a Brother, Sin openly, or is a Fornicator, is a profane Perſon, is an Idolator, Drunk<g ref="char:EOLhyphen"/>ard, or Extortioner, <hi>&amp;c.</hi> thou needs not go to ſuch a one and tell him his Fault, betwixt thee and him, nor to take o<g ref="char:EOLhyphen"/>thers with thee, nor to tell the Con<g ref="char:EOLhyphen"/>gregation
+<pb n="13" facs="tcp:150288:8"/>this Precept doth not concern him, his Treſpaſs is not only againſt thee, but againſt all he preten<g ref="char:EOLhyphen"/>ed to be in Fellowſhip with, his wick<g ref="char:EOLhyphen"/>edneſs being open and Manifeſt to all; he is to be denied, and judged of all, and it is no Back-biting to ſpeak the Truth of ſuch a Man to others con<g ref="char:EOLhyphen"/>cerned, though behind his back.</p>
+            <p>Every Member of a true Society who are gathered by the Spirit of Truth, and lives in the Fellowſhip of it, they are furniſhed with Courage and ſtrength to defend each other, to Believe well, and Hope well, of each other againſt all evil Reports, Tales and Storys that may be raiſed, and will let nothing in, but upon good Proof, or clear Manifeſtation; and then tho it may bring Sorrow, yet a Judgment is raiſed with Severity againſt the do<g ref="char:EOLhyphen"/>ing of Evil by ſuch who are under the Profeſſion of good; ſuch Hypocrites God will Judge to the uttermoſt, their Damnation ſlumbers not, yet ſuch there have been, are, and will be, un<g ref="char:EOLhyphen"/>der
+<pb n="14" facs="tcp:150288:9"/>the higheſt Profeſſions outward that ever were, are, or ſhall be among men, (until the Univerſal deſtruction of that grand Enemy of mankind.)</p>
+            <p>It is an excellent degree in Chriſtia<g ref="char:EOLhyphen"/>nity to attain to that ſtate in Love which thinks no ill, ſuch can ſpeak no ill, nor do no ill againſt their Friend or Neighbour, nor againſt any man; the Tale-carrier, Whiſperer, nor Flat<g ref="char:EOLhyphen"/>teter, can have no place with ſuch a one, his very Countenance drives them away, having no part in him, can give no entertainment to them.</p>
+            <p>He that ſeeth a Thief and conſenteth to him is Guilty with him: Tale-bear<g ref="char:EOLhyphen"/>ers, Whiſperers, and Back-biters, and their entertainers, who defame and Rob a man of his good Name, Credit and Reputation, are greater Thieves than thoſe that Rob a man of a little Money and Goods; as it is written, <hi>A good Name is better than precious Oyntment,</hi> Eccleſ. 7.3. <hi>A good Name is rather to be choſen than great Riches,</hi> Prov. 22.1. He that raiſeth a falſe
+<pb n="15" facs="tcp:150288:9"/>Report and gets Tale-carriers to carry it abroad; and theſe Tell-tales finds en<g ref="char:EOLhyphen"/>tertainers and receivers; Who knows the extent of ſuch things? And who can meaſure the evil fruit of ſuch do<g ref="char:EOLhyphen"/>ings? Such evil Seed meeting with ground ſuitable thereunto, grows and increaſeth amain, and according to the Phraſe a man's Back is bitten, his Cre<g ref="char:EOLhyphen"/>dit wounded, his good Name ſtained and defiled, his Reputation impaired, if not deſtroyed among ſuch as are cre<g ref="char:EOLhyphen"/>dulous of falſe Reports; and all this is done as it were inſenſibly, ſometimes before he knows any thing thereof.</p>
+            <p>It hath not been without great cauſe that both God and men hath given forth Laws againſt ſuch things. He that pro<g ref="char:EOLhyphen"/>feſſeth and obeyeth that Royal Law or Precept of Chriſt, <hi>Do as thou wouldſt be done unto,</hi> cannot touch with theſe things, nor ſhew any favour or coun<g ref="char:EOLhyphen"/>tenance to any that are found therein.</p>
+            <p>I ſhall now Anſwer one Queſtion, and conclude this my Caution, Warning, and Teſtimony againſt rayſing falſe Re<g ref="char:EOLhyphen"/>ports,
+<pb n="16" facs="tcp:150288:10"/>Tale-bearing, and Tale-hearing, having an aim for general Good therein, hoping what I have ſaid may be of ſome ſervice for the ſtopping and preventing of ſuch things which tend to the di<g ref="char:EOLhyphen"/>viding and deſtroying all true Friend<g ref="char:EOLhyphen"/>ſhip and Soeiety.</p>
+            <p>The Queſtion is this; If a Falſe Re<g ref="char:EOLhyphen"/>port be raiſed and ſpread abroad, re<g ref="char:EOLhyphen"/>ceived and entertained as a Truth, be<g ref="char:EOLhyphen"/>ing told ſo, and received ſo (as all falſe Reports and Tales are under the name of Truth, which makes them the more miſchievous) what courſe is beſt to be taken in ſuch a caſe, that I may do all the right I can to the perſon concerned.</p>
+            <p>
+               <hi>Anſwer,</hi> When the Report comes to thy ear, engage the perſon that brings it, to bring forth his Author; and ſo let it be enquired and purſued until the firſt Author be found, and then le<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſound Judgment paſs thereon; and this will be a means to ſtop and diſcou<g ref="char:EOLhyphen"/>rage Tale-bearers, Back-biters, and Whiſperers. And by ſo doing ſuch will
+<pb n="17" facs="tcp:150288:10"/>not again attempt to bring thee any more Tales. Alſo in ſo doing thou wilt do as thou wouldſt be done by, ac<g ref="char:EOLhyphen"/>cording to the Law of God: if thou doſt otherwiſe, the Law of God and Man is againſt thee, and thou art not fit to be a Member of a Chriſtian Society.</p>
+            <div type="conclusion">
+               <head>The Concluſion.</head>
+               <p>Now it being a Truth that Tale<g ref="char:EOLhyphen"/>bearing, Whiſpering, raiſing evil Re<g ref="char:EOLhyphen"/>ports, and receiving and entertaining of them; and the neglect of obſerving thoſe two Precepts of Chriſt before mentioned, are of ſuch pernicious ef<g ref="char:EOLhyphen"/>fects and evil tendency, as to reveal <hi>Se<g ref="char:EOLhyphen"/>crets,</hi> ſeparate near Friends, beget <hi>Strife</hi> and <hi>Diviſion,</hi> deſtroy <hi>Society</hi> and <hi>Friend<g ref="char:EOLhyphen"/>ſhip,</hi> make <hi>Wounds</hi> and <hi>Breaches,</hi> and as an <hi>
+                     <g ref="char:V">Ʋ</g>nrighteous Witneſs</hi> that puts forth his <hi>Hand</hi> againſt the <hi>Blood</hi> of his <hi>Neigh<g ref="char:EOLhyphen"/>bour,</hi> and worſe than <hi>Thieves</hi> and <hi>Rob<g ref="char:EOLhyphen"/>bers,</hi> I ſay, ſeeing it is ſo, it highly con<g ref="char:EOLhyphen"/>cerns all that would be accounted ver<g ref="char:EOLhyphen"/>tuous and honeſt, to keep clear of theſe
+<pb n="16" facs="tcp:150288:11"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="17" facs="tcp:150288:11"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="18" facs="tcp:150288:12"/>things; and to judge it in the leaſt ap<g ref="char:EOLhyphen"/>pearance thereof, not only in others but in themſelves.</p>
+            </div>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>THere were Young People in the Primitive times that grew idle and wanton (eſpecially young Wo<g ref="char:EOLhyphen"/>men) as went from Houſe to Houſe, and were Tatlers and buſie bodies, and medlers with other mens matters, and ſpeaking things which they ought not; alſo they were prone to delight them<g ref="char:EOLhyphen"/>ſelves in coſtly Apparel, and platting the Hair, and wearing of Gold, <hi>&amp;c.</hi> all theſe things the Apoſtles and Mini<g ref="char:EOLhyphen"/>ſters of Chriſt were troubled to ſee and hear of them, and did exhort and endeavour to perſwade to the contra<g ref="char:EOLhyphen"/>ry; becauſe it did not become Wo<g ref="char:EOLhyphen"/>men profeſſing Godlineſs; and where theſe things are found now in, with, and upon People, Young or Old, Male or Female, let them profeſs what
+<pb n="19" facs="tcp:150288:12"/>they will) they are infallible ſigns that they want the inward adorning of a meek and quiet Spirit, that they are not like the King's Daughter, <hi>That is all glorious within;</hi> and that the loins of their minds are not girded with the Girdle of Truth, when the loins of their Bodies are girded with rich and coſtly Attire, and ſuperfluous vanities; and that the very Profeſſion and Reli<g ref="char:EOLhyphen"/>gion of ſuch is vain, who have not a bridle to their Tongues, and are not re<g ref="char:EOLhyphen"/>ſtrained thereby from Tatling, medling and ſpeaking thoſe things they ought not.</p>
+            <p>Now that all young people that pro<g ref="char:EOLhyphen"/>feſs the Truth may be kept and pre<g ref="char:EOLhyphen"/>ſerved out of theſe evils, take the Counſel of <hi>Paul</hi> to <hi>Timothy, Flee all youthful Luſts: follow Righteouſneſs, Faith, Charity, Peace, with them that call upon the Lord with a pure heart;</hi> if you do but obey this Exhortation (by the aſſiſtance of the grace of God, to which you have been commended to be taught all good Leſſons) you can
+<pb n="20" facs="tcp:150288:13"/>never fall into the aforementioned evils, nor any other, for when you come into each others company, your words will be few, and ſeaſoned with Grace, and the <hi>Fear and dread of God will be with you,</hi> and you will ſet him alwaies before you, then will your diſcourſe tend to the edifying each other, then inſtead of meddling with other mens matters, or telling one another Stories you will tell one another what the Lord hath done for your Souls, from the experimental work of his Spi<g ref="char:EOLhyphen"/>rit and Grace in your hearts, according to the Manifeſtation and Working there<g ref="char:EOLhyphen"/>of. And you will take heed of boaſt<g ref="char:EOLhyphen"/>ing above what you have attained there through, and of ſpeaking of thoſe things which Chriſt hath not wrought in you; ſo will you alſo be preſerved from High-mindedneſs and Conceited<g ref="char:EOLhyphen"/>neſs, which would lead to Pride your ſelves with Knowledge, <hi>Openings, Vi<g ref="char:EOLhyphen"/>ſions,</hi> and <hi>Revelations</hi> which ſome of you may have had; that you may not deck your ſelves with theſe things,
+<pb n="21" facs="tcp:150288:13"/>which are all Good, Pleaſant, and De<g ref="char:EOLhyphen"/>lightful in their Time and Seaſon: Yet they are not for Food, nor Raiment, all muſt receive their daily Bread from God; and their Clothing, or Covering, muſt be his Spirit, (or a Meek and quiet Spirit) where this is wanting, the wo from God will come, let the talk and Profeſſion of Religion be what it will.</p>
+            <p>The Eye, Mind, and Heart muſt be upon God, from whence every good and perfect gift comes; and not upon the gift, leaſt you deck your ſelves there with and play the Harlot; as ſome in former Ages has done. And in this Age alſo, and brought Judgment upon themſelves to the utmoſt; even after they have been made comely with his Ornaments, with his Gifts and Graces, Eat and Drank at his Table, enjoyed his preſence, and heard him Teach in their ſtreets; yea, and caſt out many Devils in his Name: Yet have become ſhut out of his Kingdom, and have wholly loſt the way that leadeth there to. Again.</p>
+            <pb n="22" facs="tcp:150288:14"/>
+            <p>This hath befaln many (eſpecially young People) in my own knowledge and remembrance, ſince God gathered us to be a People; for want of watch<g ref="char:EOLhyphen"/>fulneſs and keeping low in the fear of God; ſome hath fallen by flying aloft in airy Imaginations and Notions, be<g ref="char:EOLhyphen"/>ing puffed up in their minds; and ſome by returning again and going down in<g ref="char:EOLhyphen"/>to the Earth, like the Sow that was waſh<g ref="char:EOLhyphen"/>ed to the wallowing in the Mire again.</p>
+            <p>Now that you and all may be pre<g ref="char:EOLhyphen"/>ſerved herefrom, and from all Evil, from all filthineſs of Fleſh and Spirit, I commend you in the firſt place to the Grace, Light and Spirit of God, which hath appeared to you and ſhin<g ref="char:EOLhyphen"/>ed in you; and in the next place in the ſence thereof to read <hi>Pauls</hi> Directions to <hi>Titus</hi> 2. and 3. Chap. <hi>Meditate and conſider thereof and you may Receive pro<g ref="char:EOLhyphen"/>fit thereby.</hi>
+            </p>
+            <p>The Children of friends whoſe Parents hath taken care to inſtruct, councel, and perſwade them not onely by Precept, but by Exam<g ref="char:EOLhyphen"/>ple
+<pb n="23" facs="tcp:150288:14"/>in life and Converſation to follow their ſteps, and to walk after them in the Self-denial, out of the pomp and vanities of the World, out of the ſinful luſts of the fleſh, luſts of the eye, and pride of life, which ſuperabounds in the world; theſe Children have had great benefit and advantage beyond what their Parents ever had; and ma<g ref="char:EOLhyphen"/>ny Children, Sons and Daughters have made a good uſe thereof, and can bleſs and praiſe God that they had ſuch Pa<g ref="char:EOLhyphen"/>rents. And theſe are come to the ſence, knowledge and underſtanding of the root of the matter in themſelves, <hi>viz.</hi> the Light and Grace of God with<g ref="char:EOLhyphen"/>in, the New Covenant and Law writ<g ref="char:EOLhyphen"/>ten within, and do walk therein, and are taught thereby, to the praiſe and glory thereof.</p>
+            <p>But many Friends Children keep on<g ref="char:EOLhyphen"/>ly in the form, in the outward Court, and enters not within the vail, comes not to the foundation which God hath laid, do not know the work and ope<g ref="char:EOLhyphen"/>ration of the Grace and Spirit of God
+<pb n="24" facs="tcp:150288:15"/>upon their hearts, minds and under<g ref="char:EOLhyphen"/>ſtandings, to waſh, cleanſe, and Sanctifie their inward parts: ſo knows not what it is to put off the Old man with his Deeds, and to put on the New, and to be renewed in the Spirit of their minds, theſe grow not in Grace, nor in the knowledge of the myſteries of God; neither are they acquainted with the wiles and devices of the Enemy, Edu<g ref="char:EOLhyphen"/>cation and Tradition being the chief ground of their Religion; theſe will wither like Corn upon the houſe top.</p>
+            <p>There is another ſort of Friends Chil<g ref="char:EOLhyphen"/>dren, who after they have come to years and ſtature, have ſlighted and turned their backs upon their Parents, and upon all their Counſel, Inſtruction, Perſwaſion, and Example. Alſo as to Religion, and have choſen their own waies, walking after their own corrupt wills, caſting off the Yoke of Modeſty, Temperance, Chaſtity, plainneſs of Speech, and plainneſs of Apparel which they had been bred up in while young with their Parents, and are gone into
+<pb n="25" facs="tcp:150288:15"/>the ſuperfluity of naughtineſs that is in the world (to their own ruin) in contempt, diſobedience and diſhonour of their Parents, which hath cauſed Grief, and made their hearts ſad; and by ſo doing, their hearts have become hard, unthankful, and unholy; and without natural affection alſo towards their Parents, contemning, diſregarding and diſobeying the Commandments of God: And all the Precepts and Exhor<g ref="char:EOLhyphen"/>tations, Bleſſings and Curſings promiſed and threatned to the obedient and diſo<g ref="char:EOLhyphen"/>bedient Children to Parents, which are very many throughout the holy Scrip<g ref="char:EOLhyphen"/>tures; and all the bonds of Nature that enjoyns Children to Love, Honor, and Obey their Parents: ſuch Children are nigh unto Curſing, nigh unto a re<g ref="char:EOLhyphen"/>probate ſence, out of which it will be a Miracle if ever they return, Repent and be Converted.</p>
+            <p>It is a bleſſed thing when young People and Children <hi>Remember their Creator in the daies of their Youth;</hi> and come to live in the fear of the Lord,
+<pb n="26" facs="tcp:150288:16"/>and to have ſuch Parents, Maſters and Tutors as are ready to Teach them, Inſtruct them, and put them in mind thereof, not only by Precept but by Example alſo; which Bleſſings, if they ſlight, neglect and undervalue in their youthful daies, their ſins multiply up<g ref="char:EOLhyphen"/>on them; Ignorance, Darkneſs, and hardneſs of Heart encreaſeth in them to that degree, that many times they become old in wickedneſs in their young daies; ſuch if they periſh, God and their Parents are clear, and their Deſtruction is of themſelves, be<g ref="char:EOLhyphen"/>cauſe they have deſpiſed the bleſſings of God, and the bleſſings of their Parents, who have had a tender care of them; but when God makes them poſſeſs the ſins of their Youth, then will they cry out, Oh, that we had born the Yoke in our Youth: Oh, that we had hearkened to the Voice of God in our own Conſciences, and to the Voice of our Parents: then ſhould we not have Reaped ſuch an evil Crop of our own Sowing; And
+<pb n="27" facs="tcp:150288:16"/>they ſhall then be made to confeſs tha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God is Juſt, and Righteous in all his Judgments, when they Receive the Fruit of their own doings, and feel the Weight of their own Iniquity.</p>
+            <closer>
+               <signed>William Shewen.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
